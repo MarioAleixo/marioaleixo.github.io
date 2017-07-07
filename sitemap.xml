@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://marioaleixo.github.io/about/index.html</loc>
+    <loc>http://marioaleixo.github.io/2017/07/07/Customising-my-Hexo-blog-Day-5-of-100DaysOfCode/</loc>
     
-    <lastmod>2017-07-07T20:05:31.245Z</lastmod>
+    <lastmod>2017-07-07T21:21:17.778Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marioaleixo.github.io/2017/07/06/Finally-hello-world/</loc>
+    
+    <lastmod>2017-07-07T21:09:12.372Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://marioaleixo.github.io/categories/index.html</loc>
     
-    <lastmod>2017-07-07T20:02:12.427Z</lastmod>
+    <lastmod>2017-07-07T20:17:09.443Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://marioaleixo.github.io/about/index.html</loc>
+    
+    <lastmod>2017-07-07T20:12:43.236Z</lastmod>
     
   </url>
   
@@ -19,13 +33,6 @@
     <loc>http://marioaleixo.github.io/tags/index.html</loc>
     
     <lastmod>2017-07-07T18:18:07.954Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://marioaleixo.github.io/2017/07/06/Finally-hello-world/</loc>
-    
-    <lastmod>2017-07-06T17:51:44.969Z</lastmod>
     
   </url>
   
