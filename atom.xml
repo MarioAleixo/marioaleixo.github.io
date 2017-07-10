@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://marioaleixo.github.io/"/>
-  <updated>2017-07-07T21:21:17.778Z</updated>
+  <updated>2017-07-10T22:58:42.309Z</updated>
   <id>http://marioaleixo.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Finished the Tribute Page project (Day 6 of #100DaysOfCode)</title>
+    <link href="http://marioaleixo.github.io/2017/07/10/Finished-the-Tribute-Page-project-Day-6-of-100DaysOfCode/"/>
+    <id>http://marioaleixo.github.io/2017/07/10/Finished-the-Tribute-Page-project-Day-6-of-100DaysOfCode/</id>
+    <published>2017-07-10T22:51:29.000Z</published>
+    <updated>2017-07-10T22:58:42.309Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Despite procrastinating for the majority of the day, I managed to finish the Tribute Page project in around 4 hours. My plan was to do th
+    
+    </summary>
+    
+    
+      <category term="100DaysOfCode" scheme="http://marioaleixo.github.io/tags/100DaysOfCode/"/>
+    
+      <category term="fCC Project" scheme="http://marioaleixo.github.io/tags/fCC-Project/"/>
+    
+      <category term="Tribute Page" scheme="http://marioaleixo.github.io/tags/Tribute-Page/"/>
+    
+      <category term="HTML &amp; CSS" scheme="http://marioaleixo.github.io/tags/HTML-CSS/"/>
+    
+  </entry>
   
   <entry>
     <title>Customising my Hexo blog (Day 5 of #100DaysOfCode)</title>
